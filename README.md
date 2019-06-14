@@ -1,2 +1,2 @@
-# foreststar
-This is only for foreststar.vn
+# Demo website
+This is only for testing only!!!
